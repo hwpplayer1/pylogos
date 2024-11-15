@@ -2,6 +2,20 @@
 
 pyLOGOS logistic suite written in PyQt
 
+# Forges
+
+* https://codeberg.org/pacificlogistics/pylogos
+
+* https://git.disroot.org/pacificlogistics/pylogos
+
+* https://git.vern.cc/pacificlogistics/pylogos
+
+* https://git.sr.ht/~mertgor/pylogos
+
+* https://gitlab.com/masscollabs/pacificlogistics/pylogos
+
+* https://github.com/pacificlogistics/pylogos
+
 # License
 
 pyLOGOS logistic suite written in PyQt
